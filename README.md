@@ -28,6 +28,10 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
   - Explore trending or featured news
   - Designed for future search and filter features
   - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/6c82b953-389b-49ad-a2ec-31e4c8550231" />
+  
+- **News Details Page**
+  - dynamic page with accepting information
+  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/b5e9ed4d-d9d9-4fdf-861f-1b0f05a0d0b9" /> , -<img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/380dd875-de55-4bdc-bb05-6a85ac12e0da" />
 
 
 ---
