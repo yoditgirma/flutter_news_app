@@ -10,24 +10,24 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
 - **Home Page**
   - Displays latest news cards
   - Clean and user-friendly layout
-  - <img width="600" height="964" alt="image" src="https://github.com/user-attachments/assets/e5b6779e-730a-4921-92ec-5d8ef20a1012" />
+  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/e5b6779e-730a-4921-92ec-5d8ef20a1012" />
 
 
 - **About Page**
   - Information about the app
   - Purpose and description of the news platform
-  - <img width="627" height="1021" alt="image" src="https://github.com/user-attachments/assets/88f950ab-af0b-47f8-87c5-115e65b8e169" />
+  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/88f950ab-af0b-47f8-87c5-115e65b8e169" />
 
 
 - **Categories Page**
   - News categories displayed in a **3×3 GridView**
-  - <img width="627" height="1021" alt="image" src="https://github.com/user-attachments/assets/fc322e25-a0fd-48e5-a2c8-e87f9287c2eb" />
+  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/fc322e25-a0fd-48e5-a2c8-e87f9287c2eb" />
 
 
 - **Explore Page**
   - Explore trending or featured news
   - Designed for future search and filter features
-  - <img width="627" height="1021" alt="image" src="https://github.com/user-attachments/assets/6c82b953-389b-49ad-a2ec-31e4c8550231" />
+  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/6c82b953-389b-49ad-a2ec-31e4c8550231" />
 
 
 ---
