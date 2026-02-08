@@ -31,7 +31,7 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
   
 - **News Details Page**
   - dynamic page with accepting information
-  - <p align="center">
+  - <p>
     <img width="45%" alt="image" src="https://github.com/user-attachments/assets/b5e9ed4d-d9d9-4fdf-861f-1b0f05a0d0b9" />
     <img width="45%" alt="image" src="https://github.com/user-attachments/assets/380dd875-de55-4bdc-bb05-6a85ac12e0da" /> </p>
 
