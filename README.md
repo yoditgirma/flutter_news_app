@@ -56,7 +56,6 @@ This project was built to:
 - Search functionality
 - Category-based filtering
 - Dark mode support
-- News detail page
 
 ## 👩‍💻Author
 - Yodit Girma
