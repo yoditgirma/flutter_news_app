@@ -1,30 +1,30 @@
-# 📰 News App UI (Flutter)
+# News App UI (Flutter)
 
 A modern and clean **News App UI** built using **Flutter**.  
 This project focuses on frontend/UI design and layout, making it ideal for beginners learning Flutter widgets, navigation, and grid/list layouts.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🏠 **Home Page**
+- **Home Page**
   - Displays latest news cards
   - Clean and user-friendly layout
 
-- ℹ️ **About Page**
+- **About Page**
   - Information about the app
   - Purpose and description of the news platform
 
-- 📂 **Categories Page**
+- **Categories Page**
   - News categories displayed in a **3×3 GridView**
 
-- 🔍 **Explore Page**
+- **Explore Page**
   - Explore trending or featured news
   - Designed for future search and filter features
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Flutter**
 - **Dart**
@@ -32,7 +32,7 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
 
 ---
 
-## 📱 Screens Included
+## Screens Included
 
 - Home Screen
 - About Screen
@@ -42,7 +42,7 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was built to:
 - Practice Flutter UI design
@@ -57,7 +57,7 @@ This project was built to:
 - Category-based filtering
 - Dark mode support
 
-## 👩‍💻Author
+## 👩‍💻 Author
 - Yodit Girma
 - Flutter Developer & Learner  
 
