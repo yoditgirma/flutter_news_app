@@ -10,7 +10,7 @@ This project focuses on frontend/UI design and layout, making it ideal for begin
 - **Home Page**
   - Displays latest news cards
   - Clean and user-friendly layout
-  - <img width="500" height="864" alt="image" src="https://github.com/user-attachments/assets/e5b6779e-730a-4921-92ec-5d8ef20a1012" />
+  - <img width="45%" alt="image" src="https://github.com/user-attachments/assets/e5b6779e-730a-4921-92ec-5d8ef20a1012" />
 
 
 - **About Page**
