@@ -495,3 +495,38 @@ class CategoriesTitle extends StatelessWidget {
     );
   }
 }
+
+// Container with title n text
+
+class AboutContainer extends StatelessWidget {
+  final String title, text;
+  const AboutContainer({super.key, required this.title, required this.text});
+  @override
+  Widget build(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
+    return Expanded(
+      child: Container(
+        height: size.height * 0.4,
+        width: size.width,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(15),
+          color: secondaryColor.withValues(alpha: .2),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.all(paddingValue * 2),
+          child: Center(
+            child: Column(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.all(paddingValue * 2),
+                  child: CategoriesTitle(title: title),
+                ),
+                Text(textAlign: TextAlign.justify, text),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
