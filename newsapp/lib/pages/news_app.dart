@@ -31,8 +31,6 @@ class _NewsAppState extends State<NewsApp> {
         ExploreNews(),
         Categories(),
         About(),
-        // CategoryPage(),
-        // AboutPage(),
       ],
     );
   }
